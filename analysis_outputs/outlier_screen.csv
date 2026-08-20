@@ -1,0 +1,14 @@
+Variable,N,IQR lower fence,IQR upper fence,IQR outlier count,|z| > 3 count,Min,Max
+Age,99,18.75,40.75,1,1,23.0,43.0
+PHQ9_Total,99,-8.0,16.0,1,0,0.0,17.0
+GAD7_Total,99,-6.5,13.5,5,1,0.0,17.0
+SV_Emotional_Total,99,0.441,5.191,0,0,1.0,4.3333
+Peer_Support_Total,99,2.375,5.375,0,0,2.5,5.0
+Supervisor_Support_Total,99,2.375,5.375,4,0,2.0,5.0
+Org_Support_Total,99,0.75,5.4167,0,0,1.0,5.0
+Performance_Impact_Total,99,0.875,3.875,6,1,1.0,5.0
+Intent_Leave_Total,99,-0.5,3.5,4,2,1.0,4.75
+Work_Withdrawal_Total,99,0.1667,4.1667,2,1,1.0,5.0
+Professional_Growth_Total,99,3.25,5.25,8,4,1.0,5.0
+Resource_Need_Total,99,1.1429,5.7143,1,1,1.0,5.0
+Burnout_Total,99,1.4688,4.2188,1,0,1.625,4.3125

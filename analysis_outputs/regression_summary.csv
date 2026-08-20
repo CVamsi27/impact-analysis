@@ -1,0 +1,6 @@
+Model,Outcome,N,Predictors,R-squared,Adjusted R-squared,F-statistic,Model p-value,RMSE,MAE,AIC,BIC,Status
+Predict PHQ-9 depression,PHQ9_Total,99,7,0.304,0.2505,5.6794,0.0,3.526,2.6078,546.4597,567.2207,Fit; use HC3 robust coefficient columns for inference
+Predict GAD-7 anxiety,GAD7_Total,99,7,0.4383,0.3951,10.1446,0.0,3.1371,2.5019,523.32,544.081,Fit; use HC3 robust coefficient columns for inference
+Predict burnout,Burnout_Total,99,7,0.4109,0.3656,9.0668,0.0,0.3895,0.2977,110.2776,131.0386,Fit; use HC3 robust coefficient columns for inference
+Predict intention to leave,Intent_Leave_Total,99,8,0.5421,0.5014,13.3192,0.0,0.5572,0.4228,183.1583,206.5143,Fit; use HC3 robust coefficient columns for inference
+Predict performance impact,Performance_Impact_Total,99,8,0.6407,0.6088,20.0604,0.0,0.4919,0.3917,158.458,181.8141,Fit; use HC3 robust coefficient columns for inference

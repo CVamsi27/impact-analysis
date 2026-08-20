@@ -1,0 +1,79 @@
+Variable 1,Variable 2,N,Pearson r,Pearson p,Spearman rho,Spearman p,Effect size,Significance,Pearson q (BH-FDR),Spearman q (BH-FDR),Pearson FDR significant
+Intent_Leave_Total,Work_Withdrawal_Total,99,0.7713,0.0,0.7506,0.0,Large,***,0.0,0.0,Yes
+PHQ9_Total,GAD7_Total,99,0.7586,0.0,0.763,0.0,Large,***,0.0,0.0,Yes
+SV_Emotional_Total,Performance_Impact_Total,99,0.7273,0.0,0.7521,0.0,Large,***,0.0,0.0,Yes
+Performance_Impact_Total,Work_Withdrawal_Total,99,0.7027,0.0,0.7066,0.0,Large,***,0.0,0.0,Yes
+Performance_Impact_Total,Intent_Leave_Total,99,0.6384,0.0,0.6585,0.0,Large,***,0.0,0.0,Yes
+SV_Emotional_Total,Resource_Need_Total,99,0.6378,0.0,0.6181,0.0,Large,***,0.0,0.0,Yes
+GAD7_Total,SV_Emotional_Total,99,0.6093,0.0,0.6098,0.0,Large,***,0.0,0.0,Yes
+SV_Emotional_Total,Intent_Leave_Total,99,0.5915,0.0,0.5834,0.0,Large,***,0.0,0.0,Yes
+SV_Emotional_Total,Work_Withdrawal_Total,99,0.5828,0.0,0.5955,0.0,Large,***,0.0,0.0,Yes
+Performance_Impact_Total,Burnout_Total,99,0.5641,0.0,0.5338,0.0,Large,***,0.0,0.0,Yes
+GAD7_Total,Performance_Impact_Total,99,0.5569,0.0,0.5196,0.0,Large,***,0.0,0.0,Yes
+Work_Withdrawal_Total,Resource_Need_Total,99,0.5552,0.0,0.5102,0.0,Large,***,0.0,0.0,Yes
+Peer_Support_Total,Performance_Impact_Total,99,-0.5251,0.0,-0.5196,0.0,Large,***,0.0,0.0,Yes
+SV_Emotional_Total,Burnout_Total,99,0.5196,0.0,0.5031,0.0,Large,***,0.0,0.0,Yes
+Performance_Impact_Total,Resource_Need_Total,99,0.5175,0.0,0.5029,0.0,Large,***,0.0,0.0,Yes
+PHQ9_Total,SV_Emotional_Total,99,0.5122,0.0,0.5515,0.0,Large,***,0.0,0.0,Yes
+Supervisor_Support_Total,Professional_Growth_Total,99,0.5093,0.0,0.4839,0.0,Large,***,0.0,0.0,Yes
+PHQ9_Total,Performance_Impact_Total,99,0.5085,0.0,0.507,0.0,Large,***,0.0,0.0,Yes
+Intent_Leave_Total,Resource_Need_Total,99,0.5029,0.0,0.464,0.0,Large,***,0.0,0.0,Yes
+GAD7_Total,Burnout_Total,99,0.4991,0.0,0.4797,0.0,Moderate,***,0.0,0.0,Yes
+PHQ9_Total,Work_Withdrawal_Total,99,0.4871,0.0,0.4162,0.0,Moderate,***,0.0,0.0,Yes
+Intent_Leave_Total,Burnout_Total,99,0.4833,0.0,0.4453,0.0,Moderate,***,0.0,0.0,Yes
+GAD7_Total,Resource_Need_Total,99,0.479,0.0,0.4163,0.0,Moderate,***,0.0,0.0,Yes
+PHQ9_Total,Resource_Need_Total,99,0.4745,0.0,0.452,0.0,Moderate,***,0.0,0.0,Yes
+Work_Withdrawal_Total,Burnout_Total,99,0.4607,0.0,0.4513,0.0,Moderate,***,0.0,0.0,Yes
+GAD7_Total,Work_Withdrawal_Total,99,0.4441,0.0,0.3654,0.0002,Moderate,***,0.0,0.0005,Yes
+GAD7_Total,Intent_Leave_Total,99,0.4411,0.0,0.3548,0.0003,Moderate,***,0.0,0.0007,Yes
+Resource_Need_Total,Burnout_Total,99,0.4348,0.0,0.3729,0.0001,Moderate,***,0.0,0.0003,Yes
+Supervisor_Support_Total,Intent_Leave_Total,99,-0.4251,0.0,-0.3873,0.0001,Moderate,***,0.0,0.0003,Yes
+PHQ9_Total,Burnout_Total,99,0.3955,0.0001,0.4008,0.0,Moderate,***,0.0003,0.0,Yes
+SV_Emotional_Total,Peer_Support_Total,99,-0.3933,0.0001,-0.4073,0.0,Moderate,***,0.0003,0.0,Yes
+Peer_Support_Total,Work_Withdrawal_Total,99,-0.3707,0.0002,-0.4044,0.0,Moderate,***,0.0005,0.0,Yes
+Professional_Growth_Total,Resource_Need_Total,99,0.3657,0.0002,0.2009,0.0461,Moderate,***,0.0005,0.0782,Yes
+Peer_Support_Total,Intent_Leave_Total,99,-0.342,0.0005,-0.3292,0.0009,Moderate,***,0.0011,0.0021,Yes
+Age,Burnout_Total,99,-0.3371,0.0006,-0.3002,0.0025,Moderate,***,0.0013,0.0053,Yes
+Peer_Support_Total,Supervisor_Support_Total,99,0.3224,0.0011,0.3735,0.0001,Moderate,**,0.0024,0.0003,Yes
+SV_Emotional_Total,Professional_Growth_Total,99,0.3156,0.0015,0.2419,0.0159,Moderate,**,0.0032,0.0302,Yes
+Peer_Support_Total,Burnout_Total,99,-0.3049,0.0022,-0.3163,0.0014,Moderate,**,0.0045,0.0031,Yes
+Org_Support_Total,Professional_Growth_Total,99,0.2998,0.0026,0.222,0.0272,Small,**,0.0052,0.0505,Yes
+PHQ9_Total,Intent_Leave_Total,99,0.2935,0.0032,0.2946,0.0031,Small,**,0.0062,0.0064,Yes
+Supervisor_Support_Total,Org_Support_Total,99,0.277,0.0055,0.1827,0.0704,Small,**,0.0105,0.1168,Yes
+Supervisor_Support_Total,Burnout_Total,99,-0.2622,0.0087,-0.2207,0.0281,Small,**,0.0162,0.051,Yes
+Supervisor_Support_Total,Work_Withdrawal_Total,99,-0.2488,0.013,-0.3101,0.0018,Small,*,0.0236,0.0039,Yes
+Supervisor_Support_Total,Performance_Impact_Total,99,-0.2222,0.0271,-0.2494,0.0128,Small,*,0.048,0.0255,Yes
+Peer_Support_Total,Professional_Growth_Total,99,0.202,0.045,0.1684,0.0956,Small,*,0.078,0.1491,No
+GAD7_Total,Peer_Support_Total,99,-0.1842,0.068,-0.1212,0.232,Small,,0.1153,0.3113,No
+Org_Support_Total,Resource_Need_Total,99,0.1825,0.0706,0.1626,0.1078,Small,,0.1172,0.1649,No
+Org_Support_Total,Performance_Impact_Total,99,0.1763,0.081,0.1748,0.0835,Small,,0.1316,0.1329,No
+Age,GAD7_Total,99,-0.1727,0.0873,-0.1486,0.1421,Small,,0.139,0.2091,No
+PHQ9_Total,Peer_Support_Total,99,-0.1679,0.0967,-0.1203,0.2355,Small,,0.1509,0.3113,No
+Age,Supervisor_Support_Total,99,0.165,0.1027,0.1004,0.3225,Small,,0.1571,0.3974,No
+Age,Professional_Growth_Total,99,0.1581,0.1181,0.1401,0.1667,Small,,0.1744,0.2408,No
+Org_Support_Total,Intent_Leave_Total,99,-0.1579,0.1185,-0.1116,0.2716,Small,,0.1744,0.3473,No
+Intent_Leave_Total,Professional_Growth_Total,99,-0.1565,0.122,-0.2485,0.0131,Small,,0.1762,0.0255,No
+Peer_Support_Total,Resource_Need_Total,99,-0.1549,0.1257,-0.1766,0.0803,Small,,0.1783,0.1305,No
+Org_Support_Total,Work_Withdrawal_Total,99,0.1462,0.1489,0.1213,0.2316,Small,,0.2074,0.3113,No
+Age,PHQ9_Total,99,-0.1303,0.1987,-0.0973,0.3378,Small,,0.2719,0.4054,No
+Age,Performance_Impact_Total,99,-0.1215,0.231,-0.0503,0.6207,Small,,0.3107,0.712,No
+Peer_Support_Total,Org_Support_Total,99,-0.1099,0.2787,-0.2012,0.0458,Small,,0.3685,0.0782,No
+PHQ9_Total,Org_Support_Total,99,0.1075,0.2895,0.0941,0.3544,Small,,0.3763,0.4188,No
+GAD7_Total,Supervisor_Support_Total,99,-0.1048,0.3017,0.0359,0.7239,Small,,0.3858,0.7842,No
+SV_Emotional_Total,Supervisor_Support_Total,99,-0.1002,0.3235,-0.1192,0.2401,Small,,0.407,0.3121,No
+Age,Resource_Need_Total,99,0.0966,0.3415,0.1208,0.2336,Very small,,0.4228,0.3113,No
+PHQ9_Total,Professional_Growth_Total,99,0.0922,0.3641,0.2178,0.0304,Very small,,0.4437,0.0539,No
+Performance_Impact_Total,Professional_Growth_Total,99,0.0901,0.3752,0.0213,0.834,Very small,,0.4502,0.8911,No
+GAD7_Total,Org_Support_Total,99,-0.0759,0.4555,-0.0398,0.696,Very small,,0.5383,0.7714,No
+Supervisor_Support_Total,Resource_Need_Total,99,-0.0734,0.4701,-0.1222,0.2281,Very small,,0.5473,0.3113,No
+Org_Support_Total,Burnout_Total,99,-0.0584,0.5656,-0.0166,0.8706,Very small,,0.6488,0.9054,No
+PHQ9_Total,Supervisor_Support_Total,99,-0.0482,0.6358,0.0112,0.9121,Very small,,0.7172,0.9361,No
+Age,Intent_Leave_Total,99,0.0459,0.6518,0.0997,0.3261,Very small,,0.7172,0.3974,No
+SV_Emotional_Total,Org_Support_Total,99,0.0458,0.6528,0.0389,0.7022,Very small,,0.7172,0.7714,No
+Age,Peer_Support_Total,99,0.0303,0.766,0.0037,0.9707,Very small,,0.8279,0.9707,No
+Professional_Growth_Total,Burnout_Total,99,0.0287,0.778,-0.0416,0.6824,Very small,,0.8279,0.7714,No
+Work_Withdrawal_Total,Professional_Growth_Total,99,-0.0277,0.7854,-0.1101,0.2781,Very small,,0.8279,0.3499,No
+GAD7_Total,Professional_Growth_Total,99,0.0223,0.8264,0.1538,0.1285,Very small,,0.8533,0.1928,No
+Age,Work_Withdrawal_Total,99,0.0217,0.8314,0.0529,0.6029,Very small,,0.8533,0.7019,No
+Age,SV_Emotional_Total,99,-0.0161,0.8744,-0.0074,0.9419,Very small,,0.8858,0.9541,No
+Age,Org_Support_Total,99,0.0063,0.9505,0.018,0.8593,Very small,,0.9505,0.9054,No

@@ -1,0 +1,13 @@
+Scale,Label,Items,Allowed missing items,Rows person-mean imputed,Rows scale-median imputed,Rule
+PHQ9_Total,PHQ-9 depression total,9,1,1,1,Person-mean imputation when <=20% of items are missing; scale median when more items are missing.
+GAD7_Total,GAD-7 anxiety total,7,1,1,0,Person-mean imputation when <=20% of items are missing; scale median when more items are missing.
+SV_Emotional_Total,Second victim emotional impact,9,1,2,0,Person-mean imputation when <=20% of items are missing; scale median when more items are missing.
+Peer_Support_Total,Peer support,4,1,1,1,Person-mean imputation when <=20% of items are missing; scale median when more items are missing.
+Supervisor_Support_Total,Supervisor support,4,1,1,1,Person-mean imputation when <=20% of items are missing; scale median when more items are missing.
+Org_Support_Total,Organisation support,3,1,0,1,Person-mean imputation when <=20% of items are missing; scale median when more items are missing.
+Performance_Impact_Total,Performance impact,4,1,0,2,Person-mean imputation when <=20% of items are missing; scale median when more items are missing.
+Intent_Leave_Total,Intention to leave,4,1,0,2,Person-mean imputation when <=20% of items are missing; scale median when more items are missing.
+Work_Withdrawal_Total,Mental health day/time off/distraction impact,3,1,0,2,Person-mean imputation when <=20% of items are missing; scale median when more items are missing.
+Professional_Growth_Total,Professional growth,4,1,0,2,Person-mean imputation when <=20% of items are missing; scale median when more items are missing.
+Resource_Need_Total,Resource/support need,7,1,1,1,Person-mean imputation when <=20% of items are missing; scale median when more items are missing.
+Burnout_Total,Burnout total,16,3,3,2,Person-mean imputation when <=20% of items are missing; scale median when more items are missing.

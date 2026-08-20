@@ -1,0 +1,49 @@
+Predictor,Outcome,Test,Groups used,N,Statistic,Effect size,Effect size type,p-value,Significance,q-value (BH-FDR),FDR significant
+Specialization,GAD7_Category,Chi-square,18,99,82.3533,0.5266,Cramer's V,0.0035,**,0.0964,No
+Designation,Intent_Leave_Total,Kruskal-Wallis,8,95,20.838,0.1591,epsilon squared,0.004,**,0.0964,No
+Designation,Peer_Support_Total,Kruskal-Wallis,8,95,19.6034,0.1449,epsilon squared,0.0065,**,0.1007,No
+Designation,Org_Support_Total,Kruskal-Wallis,8,95,18.6966,0.1344,epsilon squared,0.0092,**,0.1007,No
+Specialization,Org_Support_Total,Kruskal-Wallis,12,93,24.1724,0.1626,epsilon squared,0.012,*,0.1007,No
+Designation,Performance_Impact_Total,Kruskal-Wallis,8,95,17.8651,0.1249,epsilon squared,0.0126,*,0.1007,No
+Specialization,Resource_Need_Total,Kruskal-Wallis,12,93,20.4368,0.1165,epsilon squared,0.0397,*,0.2283,No
+Designation,GAD7_Total,Kruskal-Wallis,8,95,14.2103,0.0829,epsilon squared,0.0476,*,0.2283,No
+Gender,Org_Support_Total,Mann-Whitney U,2,99,1496.0,0.1914,rank-biserial approx r,0.0554,,0.2283,No
+Designation,Professional_Growth_Total,Kruskal-Wallis,8,95,13.7593,0.0777,epsilon squared,0.0556,,0.2283,No
+Specialization,SV_Emotional_Total,Kruskal-Wallis,12,93,18.7412,0.0956,epsilon squared,0.0659,,0.2283,No
+Designation,SV_Emotional_Total,Kruskal-Wallis,8,95,13.2602,0.072,epsilon squared,0.066,,0.2283,No
+Specialization,PHQ9_Total,Kruskal-Wallis,12,93,18.5656,0.0934,epsilon squared,0.0694,,0.2283,No
+Specialization,Peer_Support_Total,Kruskal-Wallis,12,93,18.4167,0.0916,epsilon squared,0.0724,,0.2283,No
+Specialization,Intent_Leave_Total,Kruskal-Wallis,12,93,18.3868,0.0912,epsilon squared,0.073,,0.2283,No
+Specialization,Work_Withdrawal_Total,Kruskal-Wallis,12,93,18.2439,0.0894,epsilon squared,0.0761,,0.2283,No
+Designation,Work_Withdrawal_Total,Kruskal-Wallis,8,95,12.1264,0.0589,epsilon squared,0.0965,,0.2724,No
+Designation,Supervisor_Support_Total,Kruskal-Wallis,8,95,11.8917,0.0562,epsilon squared,0.1042,,0.2778,No
+Specialization,PHQ9_Category,Chi-square,18,99,63.5175,0.4625,Cramer's V,0.1121,,0.2833,No
+Specialization,Burnout_Total,Kruskal-Wallis,12,93,16.5467,0.0685,epsilon squared,0.122,,0.2928,No
+Specialization,GAD7_ModeratePlus,Chi-square,18,99,23.6619,0.4889,Cramer's V,0.1289,,0.2947,No
+Designation,Resource_Need_Total,Kruskal-Wallis,8,95,10.9095,0.0449,epsilon squared,0.1426,,0.3112,No
+Designation,Burnout_Total,Kruskal-Wallis,8,95,10.6953,0.0425,epsilon squared,0.1525,,0.3182,No
+Gender,Resource_Need_Total,Mann-Whitney U,2,99,1411.5,0.1319,rank-biserial approx r,0.1891,,0.3782,No
+Gender,GAD7_Category,Chi-square,2,99,4.3911,0.2106,Cramer's V,0.2222,,0.4267,No
+Specialization,Performance_Impact_Total,Kruskal-Wallis,12,93,14.0331,0.0374,epsilon squared,0.2312,,0.4268,No
+Specialization,GAD7_Total,Kruskal-Wallis,12,93,13.0672,0.0255,epsilon squared,0.289,,0.5137,No
+Gender,GAD7_ModeratePlus,Chi-square,2,99,1.0739,0.1041,Cramer's V,0.3001,,0.5144,No
+Gender,Professional_Growth_Total,Mann-Whitney U,2,99,1355.5,0.0925,rank-biserial approx r,0.3386,,0.5605,No
+Gender,GAD7_Total,Mann-Whitney U,2,99,1355.0,0.0922,rank-biserial approx r,0.357,,0.5637,No
+Designation,PHQ9_Total,Kruskal-Wallis,8,95,7.6543,0.0075,epsilon squared,0.3641,,0.5637,No
+Gender,Work_Withdrawal_Total,Mann-Whitney U,2,99,1343.5,0.0841,rank-biserial approx r,0.3953,,0.5929,No
+Gender,PHQ9_Total,Mann-Whitney U,2,99,1334.0,0.0774,rank-biserial approx r,0.4405,,0.6278,No
+Specialization,Supervisor_Support_Total,Kruskal-Wallis,12,93,10.9827,0.0,epsilon squared,0.4447,,0.6278,No
+Designation,PHQ9_ModeratePlus,Chi-square,12,99,10.097,0.3194,Cramer's V,0.5217,,0.7154,No
+Specialization,PHQ9_ModeratePlus,Chi-square,18,99,15.8086,0.3996,Cramer's V,0.5374,,0.7166,No
+Designation,GAD7_Category,Chi-square,12,99,30.8783,0.3224,Cramer's V,0.5731,,0.7435,No
+Designation,PHQ9_Category,Chi-square,12,99,30.431,0.3201,Cramer's V,0.5956,,0.7524,No
+Specialization,Professional_Growth_Total,Kruskal-Wallis,12,93,8.9024,0.0,epsilon squared,0.6309,,0.7598,No
+Gender,Performance_Impact_Total,Mann-Whitney U,2,99,1292.0,0.0478,rank-biserial approx r,0.6331,,0.7598,No
+Designation,GAD7_ModeratePlus,Chi-square,12,99,8.5843,0.2945,Cramer's V,0.6602,,0.7624,No
+Gender,PHQ9_Category,Chi-square,2,99,1.566,0.1258,Cramer's V,0.6671,,0.7624,No
+Gender,Peer_Support_Total,Mann-Whitney U,2,99,1174.5,0.0348,rank-biserial approx r,0.7269,,0.8115,No
+Gender,SV_Emotional_Total,Mann-Whitney U,2,99,1262.0,0.0267,rank-biserial approx r,0.7926,,0.8513,No
+Gender,Burnout_Total,Mann-Whitney U,2,99,1187.0,0.026,rank-biserial approx r,0.7981,,0.8513,No
+Gender,PHQ9_ModeratePlus,Chi-square,2,99,0.0138,0.0118,Cramer's V,0.9066,,0.9348,No
+Gender,Intent_Leave_Total,Mann-Whitney U,2,99,1238.5,0.0102,rank-biserial approx r,0.9199,,0.9348,No
+Gender,Supervisor_Support_Total,Mann-Whitney U,2,99,1212.0,0.0084,rank-biserial approx r,0.9348,,0.9348,No

@@ -1,0 +1,4 @@
+Issue,Fix applied in workbook,Changes made,Interpretation note
+Headers contain leading/trailing spaces,All output sheets use trimmed headers with repeated whitespace collapsed.,Source CSV left unchanged.,Use Scored_Data_AnalysisReady for statistical work.
+Missing Specialization values,Blank Specialization values set to 'Not specified' in analysis-ready data.,10 records flagged in Specialization_Missing_Flag.,These records remain usable in analyses; treat 'Not specified' as its own category.
+Missing item-level responses,Created analysis-ready scale scores using transparent imputation.,10 scale scores person-mean imputed; 15 scale scores scale-median imputed.,Original scores are retained in *_Original columns; imputation details are in Missing_Value_Actions.

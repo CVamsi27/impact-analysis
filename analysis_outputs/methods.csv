@@ -1,0 +1,7 @@
+Topic,Method / interpretation
+Dataset,The workbook uses the cleaned analysis-ready dataset generated from the source CSV. Main trait variables have missing values resolved using documented imputation rules.
+Scoring,PHQ-9 and GAD-7 are summed. Other multi-item traits are averaged on a 1-5 scale. Reverse-coded support/burnout items are handled before scoring.
+Correlations,Pearson and Spearman correlations describe how numeric traits move together. Positive values mean traits increase together; negative values mean inverse relationships.
+Linear regression,"OLS regression models use HC3 robust standard errors and p-values. Positive B means the outcome tends to increase as the predictor increases, after adjustment."
+Associations,"Mann-Whitney, Kruskal-Wallis, and Chi-square tests summarize subgroup differences or categorical associations."
+Causality,"The data are observational survey responses. Findings should be reported as associations or predictors, not proven causal effects."

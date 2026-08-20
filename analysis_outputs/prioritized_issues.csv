@@ -1,0 +1,5 @@
+Priority,Status,Issue,Evidence,Suggested action
+High,Fixed in Excel output,Headers contain leading/trailing spaces in source CSV,11 headers,Fixed in workbook outputs using trimmed/collapsed headers; source CSV left unchanged.
+High,Fixed in Excel output with flags,Missing values are present in source CSV,"Specialization: 10; After working, I have enough energy for my leisure activities.: 3; Lately, I tend to think less at work and almost work mechanically: 3; Usually, I can manage the amount of my work well.: 3; A specified peaceful location that is available to recover and recompose after one of these types of events.: 2",Fixed in analysis-ready data: categorical blanks are labelled; scale scores use person-mean imputation for small gaps and scale-median imputation for larger gaps.
+Medium,Fixed in Excel output,Regression residuals may be non-normal,3 model(s),HC3 robust standard errors and p-values added; use HC3 columns for inference.
+Medium,Fixed in Excel output,Regression heteroskedasticity detected,1 model(s),HC3 robust standard errors and p-values added; use HC3 columns for inference.
